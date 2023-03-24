@@ -1,4 +1,4 @@
-- 👋 Welcome to my github! My name is Han. I am currently a student at App Academy,to become a fullstack developer. 👋
+- 👋 Welcome to my github! My name is Han. I am currently a student at App Academy. 👋
 - When I am not coding, I love to read, cook, and go out into nature. I am also interested in boardgames, movies, and rock climbing. 
 - Ask me about any of my projects and please reach out to me if you want to collaborate! 
 
