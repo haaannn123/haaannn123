@@ -12,7 +12,7 @@ The things listed below are the things that I know and/or still learning!
   - Node.js
   - Express
   - React
-  - 
+
 - Libraries:
   - Sequelize
   - jQuery
