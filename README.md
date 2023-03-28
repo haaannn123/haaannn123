@@ -7,6 +7,7 @@ The things listed below are the things that I know and/or still learning!
   -  JavaScript
   -  Python
   -  SQL
+  -  JSX
   
 - Frameworks: 
   - Node.js
