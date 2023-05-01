@@ -14,6 +14,7 @@ The things listed below are the things that I know and/or still learning!
   - Express
   - React
   - Flask
+  - Docker
 
 - Libraries:
   - Sequelize
