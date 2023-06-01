@@ -1,4 +1,4 @@
-<img align="right" src="[[[Imgur](https://i.imgur.com/SmdkaYM.gifv)](https://i.imgur.com/SmdkaYM.gif)](https://giphy.com/embed/eabdB5RkQaDe1YGTmo)"/>
+<img src="https://i.imgur.com/pjS1da6.jpg"/>
 
 
 ## Technologies
