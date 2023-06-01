@@ -1,4 +1,4 @@
-<img align="right" src="[https://media.giphy.com/media/9TYOxSLqBIrK0/giphy.gif](https://i.imgur.com/SmdkaYM.gifv](https://imgur.com/SmdkaYM)" />
+<img align="right" src="https://i.imgur.com/SmdkaYM.gifv](https://imgur.com/SmdkaYM" />
 
 ## Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
