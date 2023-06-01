@@ -1,4 +1,4 @@
-<img align="right" src="https://i.imgur.com/SmdkaYM.gifv"/>
+<img align="right" src="[Imgur](https://i.imgur.com/SmdkaYM.gifv)"/>
 
 ## Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
