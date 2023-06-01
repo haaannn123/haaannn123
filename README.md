@@ -1,4 +1,6 @@
 <iframe src="https://giphy.com/embed/eabdB5RkQaDe1YGTmo" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/eabdB5RkQaDe1YGTmo">via GIPHY</a></p>
+
+
 ## Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
