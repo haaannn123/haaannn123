@@ -2,7 +2,7 @@
   <img align="middle" src="https://media.giphy.com/media/eabdB5RkQaDe1YGTmo/giphy.gif" />
 
   
-After successfully making a transition to software engineering, I am excited to combine my technical expertise with my deep-rooted passion for the nonprofit sector and education. Recognizing the transformative potential of technology, I aspire to leverage my skills to create innovative solutions that make a positive impact on the community.
+### After successfully making a transition to software engineering, I am excited to combine my technical expertise with my deep-rooted passion for the nonprofit sector and education. Recognizing the transformative potential of technology, I aspire to leverage my skills to create innovative solutions that make a positive impact on the community.
 </div>
 
 
