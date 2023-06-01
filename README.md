@@ -1,4 +1,4 @@
-<img src="https://giphy.com/embed/eabdB5RkQaDe1YGTmo"
+<img src="https://giphy.com/embed/eabdB5RkQaDe1YGTmo"/>
 
 
 ## Technologies
