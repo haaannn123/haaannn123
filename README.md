@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/pjS1da6.jpg"/>
+<img src="https://media.giphy.com/media/eabdB5RkQaDe1YGTmo/giphy.gif" />
 
 
 ## Technologies
