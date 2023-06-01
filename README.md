@@ -1,6 +1,5 @@
-<div id="header" align="center">
+
   <img align="middle" src="https://media.giphy.com/media/eabdB5RkQaDe1YGTmo/giphy.gif" />
-</div>
 
 
 
@@ -8,7 +7,6 @@
 
 
 
-<img align="middle" src="https://media.giphy.com/media/eabdB5RkQaDe1YGTmo/giphy.gif" />
 
 
 ## Technologies
