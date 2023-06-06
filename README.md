@@ -1,16 +1,11 @@
 <div id="header" align="center">
   <img align="middle" src="https://media.giphy.com/media/eabdB5RkQaDe1YGTmo/giphy.gif" />
-  <div id="">
+</div>
+ <div id="">
   <a href="https://www.linkedin.com/in/han-nguyen-developer/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> 
-  </div>
-  
-
-  
-### After successfully making a transition to software engineering, I am excited to combine my technical expertise with my deep-rooted passion for the nonprofit sector and education. Recognizing the transformative potential of technology, I aspire to leverage my skills to create innovative solutions that make a positive impact on the community.
-</div>
-
+ </div>
 
 
 
