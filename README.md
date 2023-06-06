@@ -11,7 +11,11 @@
 </div>
 
 ---
-
+### About me: 
+Full stack developer based in Washington, D.C.! When I am not coding I like to: 
+- 📖 read
+- ⛰️ hike
+- 👩‍🍳 cook
 
 
 
