@@ -1,11 +1,12 @@
 <div id="header" align="center">
   <img align="middle" src="https://media.giphy.com/media/eabdB5RkQaDe1YGTmo/giphy.gif" />
+   <div id="">
+    <a href="https://www.linkedin.com/in/han-nguyen-developer/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a> 
+   </div>
 </div>
- <div id="">
-  <a href="https://www.linkedin.com/in/han-nguyen-developer/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> 
- </div>
+
 
 
 
