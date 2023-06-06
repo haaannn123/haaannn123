@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  🌻 Han Nguyen 🌻
+  🌻 # Han Nguyen 🌻
   
    <div id="">
     <a href="https://www.linkedin.com/in/han-nguyen-developer/">
