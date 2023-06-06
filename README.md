@@ -7,9 +7,6 @@
     </a> 
    </div>
 </div>
-
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjA1NmQxODMwMzQwMTBiZTIyZDQxOTQ1MWM1MTNjMTk1ZGFlMTgyNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/lIiggm0NTE3xWveHqD/giphy.gif
-
 ---
 
 
