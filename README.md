@@ -15,8 +15,9 @@
 Full stack developer based in Washington, D.C.
 - 📖 I love reading fictional and non-fictional books
 - 👩‍🍳 I'm always seeking out the best recipes
+- 🧗 I love bouldering, V3
+- 🎲 I love playing board games
 - 🌱 I'm learning Rust
-- 🔡 Always seeking ways to improve my projects
 
 ## Languages: 
 <div>
