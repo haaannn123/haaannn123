@@ -13,11 +13,10 @@
 ---
 ### About me: 
 Full stack developer based in Washington, D.C.
-- 🌱 currently learning Rust
-- 🔍 love exploring nature in my free time
-
-
-
+- 📖 I love reading fictional and non-fictional books
+- 👩‍🍳 I'm always seeking out the best recipes
+- 🌱 I'm learning Rust
+- 🔡 Always seeking ways to improve my projects
 
 ## Languages: 
 <div>
