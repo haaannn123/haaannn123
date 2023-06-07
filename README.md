@@ -12,8 +12,10 @@
 
 ---
 ### About me: 
-Full stack developer based in Washington, D.C.!
+Full stack developer based in Washington, D.C.
 - 🌱 currently learning Rust
+- 🔍 love exploring nature in my free time
+
 
 
 
