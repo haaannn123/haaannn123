@@ -10,9 +10,9 @@
   * [Thirsty](https://thirsty-stores.onrender.com)
 
 <div>
-   <h1>Connect with me! <a href="https://www.linkedin.com/in/han-nguyen-developer/">
+   <h2>Connect with me! <a href="https://www.linkedin.com/in/han-nguyen-developer/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a></h1>
+    </a></h2>
 </div>
 
 <!---
