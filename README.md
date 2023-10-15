@@ -4,8 +4,6 @@
     </a></h1>
    <div id=""> 
    </div>
-  <img src="https://media.giphy.com/media/4Sjr6MLnZnQbsU3enG/giphy.gif" />
-  
   
 </div>
 
