@@ -4,7 +4,7 @@
 
 # Check out my portfolio and projects below:
 
-  * [Portfolio](haaannn123.github.io)
+  * [Portfolio](https://haaannn123.github.io)
     
   * [Goodcooks](https://greatcooks-social-app.onrender.com)
     
