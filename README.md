@@ -1,10 +1,11 @@
 <div id="header" align="center">
   <h1>🌻 Hello, my name is Han! 🌻 </h1>
-  <p> I made a recent transition from education into tech. </p>
 </div>
 
-# View my live projects below :
+# Check out my portfolio and projects below:
 
+  * [Portfolio](haaannn123.github.io)
+    
   * [Goodcooks](https://greatcooks-social-app.onrender.com)
     
   * [Thirsty](https://thirsty-stores.onrender.com)
