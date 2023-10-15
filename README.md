@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <h1>🌻 Hello, my name is Han! 🌻 </h1>
-</div>
-
 # Check out my portfolio and projects below:
 
   * [Portfolio](https://haaannn123.github.io)
