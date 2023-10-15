@@ -1,9 +1,8 @@
 <div id="header" align="center">
-  <h1>🌻 Connect with me 🌻</h1>
-   <div id="">
-    <a href="https://www.linkedin.com/in/han-nguyen-developer/">
+  <h1>🌻 Connect with me <a href="https://www.linkedin.com/in/han-nguyen-developer/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a> 
+    </a> 🌻</h1>
+   <div id=""> 
    </div>
   <img src="https://media.giphy.com/media/4Sjr6MLnZnQbsU3enG/giphy.gif" />
   
