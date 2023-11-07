@@ -1,10 +1,12 @@
+# Hi everyone! 
+
+<div>My name is Han, and I love building full-stack web apps. I discovered my passion when I created my first project, MiniBnB. Below, you can see my progression, starting with the most recent.</div>
+
 # Check out my portfolio and projects below:
 
-
-
-  * [Portfolio](https://haaannn123.github.io)
-    
   * [Up 2 U Nutrition](https://up-2-u-nutrition.onrender.com)
+    
+  * [Portfolio](https://haaannn123.github.io)
     
   * [Goodcooks](https://greatcooks-social-app.onrender.com)
     
