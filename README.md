@@ -1,6 +1,6 @@
 # Welcome to my GitHub! 👋
 
-<div>My name is Han, and I love building full-stack web apps. I discovered my passion when I created my first project, MiniBnB. Below, you can see my progression, starting with the most recent.</div>
+<div>My name is Han, and I am a full-stack Software Engineer.</div>
 
 # Check out my portfolio and projects below:
 
