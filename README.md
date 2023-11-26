@@ -1,6 +1,6 @@
 # Welcome to my GitHub! 👋
 
-<div>My name is Han, and I am a full-stack Software Engineer.</div>
+<div>My name is Han, and I am a full-stack Software Engineer. I'm inquisitive and enjoy building web apps. I hope to work with a team-oriented company that allows me to collaborate with other like-minded people.</div>
 
 # Check out my portfolio and projects below:
 
