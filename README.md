@@ -3,8 +3,6 @@
 <div>🌻 My name is Han, and I am a full-stack Software Engineer. I'm inquisitive and enjoy building web apps. I'm looking for a team-oriented company that allows me to learn and grow. 🌻 </div>
 
 # Check out my portfolio and projects below:
-
-  * [Up 2 U Nutrition](https://up-2-u-nutrition.onrender.com)
     
   * [Portfolio](https://haaannn123.github.io)
     
